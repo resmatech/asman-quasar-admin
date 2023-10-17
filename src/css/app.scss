@@ -1,0 +1,63 @@
+// app global css in SCSS form
+.text-light {
+    color: $light !important;
+}
+.bg-light {
+    background: $light !important;
+}
+
+.text-darker {
+    color: $darker !important;
+}
+.bg-darker {
+    background: $darker !important;
+}
+
+text-light-page {
+    color: $light-page !important;
+}
+.bg-light-page {
+    background: $light-page !important;
+}
+.q-field--float .q-field__label {
+    transform: translateY(-125%) translateX(0) scale(0.75);
+    right: inherit;
+    padding: 0 5px;
+    z-index: 10;
+}
+.body--light .q-field--float .q-field__label {
+    background: linear-gradient(
+        0deg,
+        rgba(255, 255, 255, 1) 0%,
+        rgba(249, 249, 249, 1) 50%,
+        rgba(67, 56, 202, 0) 100%
+    );
+}
+
+.body--dark .q-field--float .q-field__label {
+    background: linear-gradient(
+        0deg,
+        #1e293b 0%,
+        #1e293b 50%,
+        rgba(67, 56, 202, 0) 100%
+    );
+}
+.q-field--dense.q-field--float .q-field__label {
+    transform: translateY(-85%) translateX(0) scale(0.75);
+}
+
+.body--light .q-field__control::before {
+    border: 1px solid rgba(0, 0, 0, 0.14) !important;
+}
+
+.body--dark .q-field__control::before {
+    border: 1px solid rgba(0, 0, 0, 0.6) !important;
+}
+
+.body--light {
+    color: #334155;
+}
+
+.body--dark {
+    color: #e2e8f0;
+}
