@@ -2,6 +2,12 @@
 
 Asman is a sleek and modern administrative dashboard built with the Quasar framework. It offers a powerful and intuitive user interface to streamline the management and monitoring of your applications. Please note that Asman is currently under active development, and we are committed to continually enhancing it. More custom components, pages, and features will be added in future updates.
 
+## Demo
+
+Explore a live demo of `Asman - Quasar Admin Theme` to experience its features and capabilities.
+
+http://asman.resma.surge.sh/dashboard
+
 ## Install the dependencies
 
 ```bash
