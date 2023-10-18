@@ -6,7 +6,7 @@ Asman is a sleek and modern administrative dashboard built with the Quasar frame
 
 Explore a live demo of `Asman - Quasar Admin Theme` to experience its features and capabilities.
 
-http://asman.resma.surge.sh
+[DEMO](https://asman-3y8l0p5my-resmatech.vercel.app){:target="\_blank"}
 
 ## Install the dependencies
 
